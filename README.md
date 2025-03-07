@@ -70,6 +70,4 @@ Visit: `http://127.0.0.1:8000/api/posts/` in your browser or use Postman.
 ## ⚡ **Contributing**
 Feel free to fork the repository and submit pull requests. Contributions are welcome! 🚀  
 
----
 
-Would you like any additional customization? 😊
